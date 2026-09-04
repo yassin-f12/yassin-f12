@@ -1,1 +1,1 @@
-<img src="banner.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=250&section=header&text=Yassin%20Fahem&fontSize=42&fontColor=00E5A0&animation=fadeIn&fontAlignY=32&desc=Recherche%20alternance%20%E2%80%94%2012%20mois%20%7C%20Rythme%20%3A%203%20sem.%20entreprise%20%2F%201%20sem.%20%C3%A9cole%20%E2%80%94%20CESI%20Lyon&descAlignY=55&descColor=8B949E" width="100%" />
