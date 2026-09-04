@@ -1,1 +1,1 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=220&section=header&text=Yassin%20Fahem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Full%20Stack%20%E2%80%94%20Alternance%20CDA&descAlignY=55)
+<img src="banner.svg" width="100%" />
